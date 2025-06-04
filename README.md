@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Donald Gekonge
-- 👀 I’m interested in AI
+- 👀 I’m interested in AI/ML/DS/DE/DA
 - 💞️ I’m looking to collaborate on medical statistics
 
 
@@ -20,7 +20,7 @@ I`m a Statistician interested in Data Science, Data Analysis and Machine Learnin
 
 Skills: Python-R - Maths - Data wrangling - Data Manipulation - Descriptive analytics - Data Visualization - Statistics - Probability - Machine Learning /HTML / CSS/ JS
 
-- 🔭 I’m currently working on Technical University of Kenya  (school of mechanical and manufacturing engineering) 
+- 🔭 I’m currently working on Technical University of Kenya  (Department of mechanical and aerospace engineering) 
 - 🌱 I’m currently learning ML & DL
 
 
